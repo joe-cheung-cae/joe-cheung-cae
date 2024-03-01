@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on Computational Fluid Dynamic(CFD) development.
-📫 How to reach me: zhangchao.simzc@outlook.com
+- 🔭 I’m currently working on Computational Fluid Dynamic(CFD) development.
+- 📫 How to reach me: zhangchao.simzc@outlook.com
 
 <!--
 **simzc/simzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
