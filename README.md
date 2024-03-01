@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Computational Fluid Dynamic(CFD) development.
+- 😄 I’m interested in the industrial application of CFD, OOP and HPC.
 - 📫 How to reach me: zhangchao.simzc@outlook.com
 
 <!--
