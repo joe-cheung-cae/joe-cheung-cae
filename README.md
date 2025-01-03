@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Computational Fluid Dynamics(CFD), Rigid Body Dynamics(RBD) and Discre Element Method(DEM) development.
+- 🔭 I’m currently working on Computational Fluid Dynamics(CFD), Rigid Body Dynamics(RBD) and Discrete Element Method(DEM) development.
 - 😄 I’m interested in the industrial application of computational mechanics, OOP and HPC.
 - 📫 How to reach me: zhangchao.simzc@outlook.com
 
